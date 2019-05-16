@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+
+<MIDINameDocument>
+  <Author>Will Daly</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Strymon</Manufacturer>
+    <Model>BigSky</Model>
+    <CustomDeviceMode Name="Mode 1" >
+    <ChannelNameSetAssignments>
+      <ChannelNameSetAssign Channel="1" NameSet="patches" />
+      <ChannelNameSetAssign Channel="2" NameSet="patches" />
+      <ChannelNameSetAssign Channel="3" NameSet="patches" />
+      <ChannelNameSetAssign Channel="4" NameSet="patches" />
+      <ChannelNameSetAssign Channel="5" NameSet="patches" />
+      <ChannelNameSetAssign Channel="6" NameSet="patches" />
+      <ChannelNameSetAssign Channel="7" NameSet="patches" />
+      <ChannelNameSetAssign Channel="8" NameSet="patches" />
+      <ChannelNameSetAssign Channel="9" NameSet="patches" />
+      <ChannelNameSetAssign Channel="10" NameSet="patches" />
+      <ChannelNameSetAssign Channel="11" NameSet="patches" />
+      <ChannelNameSetAssign Channel="12" NameSet="patches" />
+      <ChannelNameSetAssign Channel="13" NameSet="patches" />
+      <ChannelNameSetAssign Channel="14" NameSet="patches" />
+      <ChannelNameSetAssign Channel="15" NameSet="patches" />
+      <ChannelNameSetAssign Channel="16" NameSet="patches" />
+    </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="patches" >
+			<AvailableForChannels>
+				<AvailableChannel Channel="1" Available="true" />
+				<AvailableChannel Channel="2" Available="true" />
+				<AvailableChannel Channel="3" Available="true" />
+				<AvailableChannel Channel="4" Available="true" />
+				<AvailableChannel Channel="5" Available="true" />
+				<AvailableChannel Channel="6" Available="true" />
+				<AvailableChannel Channel="7" Available="true" />
+				<AvailableChannel Channel="8" Available="true" />
+				<AvailableChannel Channel="9" Available="true" />
+				<AvailableChannel Channel="10" Available="true" />
+				<AvailableChannel Channel="11" Available="true" />
+				<AvailableChannel Channel="12" Available="true" />
+				<AvailableChannel Channel="13" Available="true" />
+				<AvailableChannel Channel="14" Available="true" />
+				<AvailableChannel Channel="15" Available="true" />
+				<AvailableChannel Channel="16" Available="true" />
+			</AvailableForChannels>
+      <PatchBank Name="A" >
+  			<MIDICommands>
+  				<ControlChange Control="0" Value="0" />
+  				<ControlChange Control="32" Value="0" />
+  			</MIDICommands>
+  			<PatchNameList>
+  				<Patch Number="001" Name="Studio Time" ProgramChange="0" />
+  				<Patch Number="002" Name="Great Hall" ProgramChange="1" />
+  				<Patch Number="003" Name="CleanUrPlate" ProgramChange="2" />
+  				<Patch Number="004" Name="Tanked" ProgramChange="3" />
+  				<Patch Number="005" Name="Slumber" ProgramChange="4" />
+  				<Patch Number="006" Name="Past Voices" ProgramChange="5" />
+  				<Patch Number="007" Name="Stratus" ProgramChange="6" />
+  				<Patch Number="008" Name="Epiphany" ProgramChange="7" />
+  				<Patch Number="009" Name="Orchestral" ProgramChange="8" />
+          <Patch Number="010" Name="Echo Space" ProgramChange="9" />
+          <Patch Number="011" Name="Creeping Up" ProgramChange="10" />
+          <Patch Number="012" Name="Slap Reflection" ProgramChange="11" />
+          <Patch Number="013" Name="Boiler Room" ProgramChange="12" />
+          <Patch Number="014" Name="Asylum" ProgramChange="13" />
+          <Patch Number="015" Name="Versatile" ProgramChange="14" />
+          <Patch Number="016" Name="Short3" ProgramChange="15" />
+          <Patch Number="017" Name="Low Tide" ProgramChange="16" />
+          <Patch Number="018" Name="Breath Out" ProgramChange="17" />
+          <Patch Number="019" Name="Nimbus" ProgramChange="18" />
+          <Patch Number="020" Name="Articulate" ProgramChange="19" />
+          <Patch Number="021" Name="Weird Science" ProgramChange="20" />
+          <Patch Number="022" Name="What 4" ProgramChange="21" />
+          <Patch Number="023" Name="Rinse Repeat" ProgramChange="22" />
+          <Patch Number="024" Name="Hot Box" ProgramChange="23" />
+          <Patch Number="025" Name="Wood Floors" ProgramChange="24" />
+          <Patch Number="026" Name="Carney Hall" ProgramChange="25" />
+          <Patch Number="027" Name="Warmed Up" ProgramChange="26" />
+          <Patch Number="028" Name="Pipeline" ProgramChange="27" />
+          <Patch Number="029" Name="Strange Villa" ProgramChange="28" />
+          <Patch Number="030" Name="Whirlpool" ProgramChange="29" />
+          <Patch Number="31" Name="For Days" ProgramChange="30"/>
+          <Patch Number="32" Name="Open Up And" ProgramChange="31"/>
+          <Patch Number="33" Name="Take 5" ProgramChange="32"/>
+          <Patch Number="34" Name="6 Marblet" ProgramChange="33"/>
+          <Patch Number="35" Name="Phase Rev" ProgramChange="34"/>
+          <Patch Number="36" Name="Conference" ProgramChange="35"/>
+          <Patch Number="37" Name="Wishing Well" ProgramChange="36"/>
+          <Patch Number="38" Name="Tear Drop" ProgramChange="37"/>
+          <Patch Number="39" Name="Full Plate" ProgramChange="38"/>
+          <Patch Number="40" Name="Trashy" ProgramChange="39"/>
+          <Patch Number="41" Name="Wet Swells" ProgramChange="40"/>
+          <Patch Number="42" Name="Half Bloom" ProgramChange="41"/>
+          <Patch Number="43" Name="Grey Skies" ProgramChange="42"/>
+          <Patch Number="44" Name="Trying To Say" ProgramChange="43"/>
+          <Patch Number="45" Name="Stardust" ProgramChange="44"/>
+          <Patch Number="46" Name="Spacewobble" ProgramChange="45"/>
+          <Patch Number="47" Name="Undulate" ProgramChange="46"/>
+          <Patch Number="48" Name="Ovals" ProgramChange="47"/>
+          <Patch Number="49" Name="Lively" ProgramChange="48"/>
+          <Patch Number="50" Name="Relax" ProgramChange="49"/>
+          <Patch Number="51" Name="Lil Ringy" ProgramChange="50"/>
+          <Patch Number="52" Name="Single Spring" ProgramChange="51"/>
+          <Patch Number="53" Name="Wait For Me" ProgramChange="52"/>
+          <Patch Number="54" Name="Outland" ProgramChange="53"/>
+          <Patch Number="55" Name="Perfect" ProgramChange="54"/>
+          <Patch Number="56" Name="Oh My" ProgramChange="55"/>
+          <Patch Number="57" Name="Dreaming" ProgramChange="56"/>
+          <Patch Number="58" Name="3Speed" ProgramChange="57"/>
+          <Patch Number="059" Name="Drum Roll" ProgramChange="58" />
+          <Patch Number="060" Name="Furnished" ProgramChange="59" />
+          <Patch Number="061" Name="Club Gig" ProgramChange="60" />
+          <Patch Number="062" Name="Moria Mines" ProgramChange="61" />
+          <Patch Number="063" Name="Low In The Mix" ProgramChange="62" />
+          <Patch Number="064" Name="Trampoline" ProgramChange="63" />
+          <Patch Number="065" Name="Shadows" ProgramChange="64" />
+          <Patch Number="066" Name="Softly Blooming" ProgramChange="65" />
+          <Patch Number="066" Name="Last Long" ProgramChange="66" />
+          <Patch Number="067" Name="Conversations" ProgramChange="67" />
+          <Patch Number="068" Name="Low Blow" ProgramChange="68" />
+          <Patch Number="069" Name="Xr8ted" ProgramChange="69" />
+          <Patch Number="070" Name="Catacombs" ProgramChange="70" />
+          <Patch Number="071" Name="Locker Room" ProgramChange="71" />
+          <Patch Number="072" Name="Big Mod" ProgramChange="72" />
+          <Patch Number="073" Name="End Credits" ProgramChange="73" />
+          <Patch Number="074" Name="Shorty" ProgramChange="74" />
+          <Patch Number="075" Name="Big 3" ProgramChange="75" />
+          <Patch Number="076" Name="Dry Off" ProgramChange="76" />
+          <Patch Number="077" Name="Chorus" ProgramChange="77" />
+          <Patch Number="078" Name="Rainmaker" ProgramChange="78" />
+          <Patch Number="079" Name="Ghosts" ProgramChange="79" />
+          <Patch Number="080" Name="Detune Verb" ProgramChange="80" />
+          <Patch Number="081" Name="Bipolar" ProgramChange="81" />
+          <Patch Number="082" Name="2Step" ProgramChange="82" />
+          <Patch Number="083" Name="Inside" ProgramChange="83" />
+          <Patch Number="084" Name="Garage" ProgramChange="84" />
+          <Patch Number="085" Name="Behind You" ProgramChange="85" />
+          <Patch Number="086" Name="Dissipate" ProgramChange="86" />
+          <Patch Number="087" Name="Chamber" ProgramChange="87" />
+          <Patch Number="088" Name="Stay With U" ProgramChange="88" />
+          <Patch Number="089" Name="Bloomin Onion" ProgramChange="89" />
+          <Patch Number="090" Name="Cumulus" ProgramChange="90" />
+          <Patch Number="091" Name="Oooo" ProgramChange="91" />
+          <Patch Number="092" Name="5th Wheel" ProgramChange="92" />
+          <Patch Number="093" Name="Cerberus" ProgramChange="93" />
+          <Patch Number="094" Name="Slap Swoosh" ProgramChange="94" />
+          <Patch Number="095" Name="Drapes" ProgramChange="95" />
+          <Patch Number="096" Name="Red Clovers" ProgramChange="96" />
+          <Patch Number="097" Name="King Dome" ProgramChange="97" />
+          <Patch Number="098" Name="Dinner" ProgramChange="98" />
+          <Patch Number="099" Name="Boing" ProgramChange="99" />
+  			</PatchNameList>
+  		</PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>
